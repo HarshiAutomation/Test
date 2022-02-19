@@ -12,7 +12,7 @@ public class basic2
 	@Test(groups= {"smoke"})
 	public void MobCreditCardMethod1()
 	{
-		System.out.println("MobCCMethod1 ");
+		System.out.println("MobCCMethod1");
 	}
 	
 	@Test
