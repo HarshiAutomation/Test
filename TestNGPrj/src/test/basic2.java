@@ -18,7 +18,7 @@ public class basic2
 	@Test
 	public void MobCreditCardMethod2()
 	{
-		System.out.println("MobCCMethod2 ");
+		System.out.println("MobCCMethod2");
 	}
 	@AfterTest
 	public void AfterTestm1()
