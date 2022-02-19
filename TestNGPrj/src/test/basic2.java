@@ -24,7 +24,7 @@ public class basic2
 	public void AfterTestm1()
 	{
 		
-		System.out.println("AfterTest1 ");
+		System.out.println("AfterTest1");
 	}
 	@BeforeClass
 	public void BeforeClassm2()
